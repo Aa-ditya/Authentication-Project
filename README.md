@@ -1,3 +1,5 @@
+Visit the site https://ransomrandom.netlify.app
+
 -Vite is used for frontend.
 -Firebase is used for authentication
 - Features Implemented:- login using email and password, google login, signup using email and password.
